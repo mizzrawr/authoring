@@ -20,25 +20,32 @@
 - [ ] Emojis
 
 
-### [Tables] [see above](#tables) 
+### [Tables] [see above](#table) 
 - [ ] Tables 
 
 
 
 ### [Go Top] [back](#authoring)
 
+
+## Content
+
 ### External Links
 [Testing your app](https://docs.github.com/en/developers/github-marketplace/testing-your-app)
 
+### [Go Top] [back](#authoring)
 
 
 ### Images 
 ![Teemo Sunset](https://images4.alphacoders.com/600/600528.png)
 
+### [Go Top] [back](#authoring)
 
 
 ### Emojis 
 :cat: 
+
+### [Go Top] [back](#authoring)
 
 
 ### Table 
@@ -48,3 +55,6 @@
 | ------------- | ------------- |
 | Maria         |      5        |
 | Brandon       |      3        |
+
+
+### [Go Top] [back](#authoring)
