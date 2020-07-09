@@ -4,7 +4,7 @@
 
 
 ### [External Links] [see above](#external-links)
-- [ ]  External Link
+- [X]  External Link
 
 
 ### [Internal Links] [see above](#internal-links) 
@@ -13,15 +13,15 @@
 
 
 ### [Images] [see above](#images)
-- [ ] Images
+- [X] Images
 
 
 ### [Emojis] [see above](#emojis)
-- [ ] Emojis
+- [X] Emojis
 
 
 ### [Tables] [see above](#table) 
-- [ ] Tables 
+- [X] Tables 
 
 
 
