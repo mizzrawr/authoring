@@ -3,13 +3,8 @@
 ### Github Flavoured Markdown
 
 ### External Links
+### [External Links] [see above](#external-links)
 - [ ]  External Link
-
-<h4 id="external-links">
- [ ]  External Link
-</h4>
-
-
 
 
 ### internal Links 
@@ -21,7 +16,10 @@
 ### Tables 
 - [ ] Tables 
 
-### [External Links] [see above](#external-links)
+
+<h4 id="external-links">
+External Link
+</h4>
 
 
 [Testing your app](https://docs.github.com/en/developers/github-marketplace/testing-your-app)
