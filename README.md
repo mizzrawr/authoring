@@ -36,7 +36,7 @@
 ### [Go Top] [back](#authoring)
 ----------------------------------------------------------------------------------------
 ### Internal Links 
-[Interal_Links](https://github.com/mizzrawr/authoring/tree/master/Copy_of_Pictures)
+[Pictures](https://github.com/mizzrawr/authoring/tree/master/Copy_of_Pictures)
 
 ### [Go Top] [back](#authoring)
 --------------------------------------------------------------------------------------------
