@@ -16,12 +16,12 @@
 - [X] [click here](#images)
 
 
-### [Emojis] [click here](#emojis)
+### [Emojis]
 - [X] [click here](#emojis)
 
 
-### [Tables] [click here](#table) 
-- [X] Tables 
+### [Tables] 
+- [X] [click here](#table) 
 
 
 
