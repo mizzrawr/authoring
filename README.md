@@ -8,24 +8,24 @@
 
 
 ### [Internal Links]
-- [ ] [see above](#internal-links)
+- [X] [click here](#internal-links)
 
 
 
 ### [Images] 
-- [X] [see above](#images)
+- [X] [click here](#images)
 
 
-### [Emojis] [see above](#emojis)
-- [X] Emojis
+### [Emojis] [click here](#emojis)
+- [X] [click here](#emojis)
 
 
-### [Tables] [see above](#table) 
+### [Tables] [click here](#table) 
 - [X] Tables 
 
 
 
-### [Go Top] [back](#authoring)
+### [Go Top] [click here](#authoring)
 
 
 ## Content
