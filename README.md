@@ -3,17 +3,17 @@
 ### Github Flavoured Markdown
 
 
-### [External Links] [see above](#external-links)
-- [X] [see above](#external-links)
+### [External Links]
+- [X] [click here](#external-links)
 
 
-### [Internal Links] [see above](#internal-links) 
-- [ ] internal Link 
-[Pictures](https://github.com/mizzrawr/authoring/tree/master/Copy_of_Pictures)
+### [Internal Links]
+- [ ] [see above](#internal-links)
 
 
-### [Images] [see above](#images)
-- [X] Images
+
+### [Images] 
+- [X] [see above](#images)
 
 
 ### [Emojis] [see above](#emojis)
